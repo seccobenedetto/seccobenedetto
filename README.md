@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Benedetto, a Master's student in Physics of Data at the University of Padua, with a background in Physics.
+
+I'm interested in data science, machine learning and deep learning, particularly in applying computational and statistical methods to real-world problems.
+
+My main tools are Python and its scientific computing ecosystem, including NumPy, Pandas, Scikit-learn and PyTorch. I also have experience with C++, R, SQL, and tools such as Git, Docker and Linux.
+
+Here you'll find some of my academic projects and personal explorations in data analysis, machine learning, deep learning and scientific computing.
